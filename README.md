@@ -72,4 +72,4 @@ Python (Pandas) for data cleaning · Power BI for modeling and visualization
 
 ## Certificate
 
-Forage — Tata Data Visualisation Virtual Experience Program (link/image here)
+![Forage Certificate](screenshots/certificate.png)
