@@ -65,8 +65,8 @@ Python (Pandas) for data cleaning · Power BI for modeling and visualization
 | File | Description |
 |---|---|
 | `data_cleaning.ipynb` | Full Python cleaning pipeline |
-| `clean_retail_data.csv` | Cleaned transaction-level data |
-| `customer_data.csv` | Cleaned customer-level data (CustomerID required) |
+| `clean_retail_data.zip` | Cleaned transaction-level data |
+| `customer_data.zip` | Cleaned customer-level data (CustomerID) |
 | `Tata_Retail_Data_Visualisation.pbix` | Power BI dashboard file |
 | `/screenshots` | Exported images of all visuals + executive summary |
 
