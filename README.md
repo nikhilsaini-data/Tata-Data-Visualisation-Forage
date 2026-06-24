@@ -72,4 +72,4 @@ Python (Pandas) for data cleaning · Power BI for modeling and visualization
 
 ## Certificate
 
-![Forage Certificate](screenshots/certificate.png)(https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_6a18506e8e5fb2f1028a87e3_1782021553333_completion_certificate.pdf)
+![Forage Certificate](screenshots/certificate.png)
